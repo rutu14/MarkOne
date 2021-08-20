@@ -20,6 +20,18 @@ question=[{
 {
   ques:"Favourite food ",
   ans:"Paneer",
+},
+{
+  ques:"Favourite place ",
+  ans:"Dalhousie",
+},
+{
+  ques:"Currently Staying at ",
+  ans:"Airoli",
+},
+{
+  ques:"Favourite activity ",
+  ans:"Sleep",
 }]
 for(i=0;i<question.length;i++){
   curr=question[i]
